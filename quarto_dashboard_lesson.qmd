@@ -105,14 +105,14 @@ Few columns
 
 :::
 
-::: {.valuebox title="Small Number" color="secondary" icon="arrow_down"}
+::: {.valuebox title="Small Number" color="secondary" icon="arrow-down"}
 `{python} num_rows`
 
 
 
 :::
 
-:::{.valuebox title="Medium Number" color="#5ba3b6" icon="bar_chart"}
+:::{.valuebox title="Medium Number" color="#5ba3b6" icon="bar-chart"}
 1
 
 :::
